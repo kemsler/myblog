@@ -1,0 +1,14 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'My first Blog'
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+  author = "Jha"
+
+[author]
+  name = "Jha"
